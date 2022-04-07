@@ -19,7 +19,8 @@ class KnownValues(unittest.TestCase):
         (1000, "3E8"),
         (789, "315"),
         (6940, "1B1C"),
-        (255, "FF")
+        (255, "FF"),
+        (3654, "E46")
     )
 
     def testToHexValues(self):
